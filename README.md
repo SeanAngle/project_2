@@ -1,6 +1,6 @@
  ## Team Members
   
-- Amanda Kramer
+- Mandie Kramer
 - Carla Thurston
 - Dylan Marini
 - Nanette Labrada
